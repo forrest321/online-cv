@@ -13,8 +13,8 @@ baseurl: '/online-cv' #change it according to your repository name
 #Profile information
 name: Forrest Ledbetter
 tagline: Senior Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: ''
+pic: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'I am a software developer in Birmingham, Al, with over a decade and a half of web coding experience. While my professional work has focused on the web, much of my spare time is spent working on hobby electronics with a little systems programming thrown in for fun.'
 
 #sidebar links
 email: forrest321@gmail.com
