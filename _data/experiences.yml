@@ -4,48 +4,48 @@
       time: 'June 2016 - September 2017'
       details: 'Development of in-house industrial plant management suite with an evolving mix of modern web tech'
 - experience:
-      company: 'Doozer Software',
-      role: 'Senior Developer',
-      time: 'Sept 2015 - June 2016',
+      company: 'Doozer Software'
+      role: 'Senior Developer'
+      time: 'Sept 2015 - June 2016'
       details: 'Built and maintained systems using Go (golang), C#, and MVC'
 - experience:
-      company: 'Independant Contractor',
-      role: 'Tech Consultant',
-      time: 'July 2014 - Present',
+      company: 'Independant Contractor'
+      role: 'Tech Consultant'
+      time: 'July 2014 - Present'
       details: 'Started LLC for consulting on the side, decided to do some independant contracting, which I still enjoy'
 - experience:
-      company: 'Vulcan Materials',
-      role: 'Consultant, Developer',
-      time: 'October 2013 - July 2014',
+      company: 'Vulcan Materials'
+      role: 'Consultant, Developer'
+      time: 'October 2013 - July 2014'
       details: 'Taught Intro MVC (C# / HTML / jQuery) concepts to developers on staff, Worked with developers individually to help bring their development methodologies current'
 - experience:
-      company: 'University of Alabama, Birmingham (UAB)',
-      role: 'Senior Systems Analyst',
-      time: 'January 2012 - October 2013',
+      company: 'University of Alabama, Birmingham (UAB)'
+      role: 'Senior Systems Analyst'
+      time: 'January 2012 - October 2013'
       details: 'Designed and built admin system for tracking Heart Replacement Valves, Designed, built, and maintained system for scheduling technical classes and student evaluations'
 - experience:
-      company: 'Medseek via Doozer contract',
-      role: 'Senior Software Engineer',
-      time: 'June 2011 - January 2012',
+      company: 'Medseek via Doozer contract'
+      role: 'Senior Software Engineer'
+      time: 'June 2011 - January 2012'
       details: 'Implemented new features and debugged existing code for medical industry portal, began contracting vs taking permanent employment roles for the most part'
 - experience:
-      company: 'Intermark Interactive',
-      role: 'Software Engineer',
-      time: 'September 2007 - June 2011',
+      company: 'Intermark Interactive'
+      role: 'Software Engineer'
+      time: 'September 2007 - June 2011'
       details: 'Designed and created solution for managing marketing pixels, Lead team designing and building web presence for Southeast Toyota, New England Chevy dealers, and many others'
 - experience:
-      company: 'Connextions, Inc',
-      role: 'Web App Developer',
-      time: 'August 2006 - August 2007',
+      company: 'Connextions, Inc'
+      role: 'Web App Developer'
+      time: 'August 2006 - August 2007'
       details: 'Lead developer for BCBS of Florida, Built web presence for Cedars Sinai hospital'
 - experience:
-      company: 'Revere, Inc',
-      role: 'Software Developer',
-      time: 'October 2004 - August 2006',
+      company: 'Revere, Inc'
+      role: 'Software Developer'
+      time: 'October 2004 - August 2006'
       details: 'Converted legacy Enterprise Asset Management system to web based system, Designed and built Contact Relationship Management tool for sales staff'
 - experience:
-      company: 'Adventure Travel',
-      role: 'Lead Programmer',
-      time: 'February 2003 - October 2004',
+      company: 'Adventure Travel'
+      role: 'Lead Programmer'
+      time: 'February 2003 - October 2004'
       details: 'Designed and built systems to boost travel agent productivity, Managed and maintained network, server, and desktop systems'
     
